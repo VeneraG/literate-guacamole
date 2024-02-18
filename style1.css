@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.p-3 {
+    border: 2px solid gray;
+    border-radius: 50px;
+    padding: 0px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h4 {
+    text-align: center;
+}
+
+.container text-center {
+    margin: 200px;
+    padding-top: 60px;
+}
